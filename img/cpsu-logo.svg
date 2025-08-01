@@ -1,0 +1,12 @@
+<!-- This is the school logo for Central Philippines State University -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#0b4d94"/>
+  <circle cx="100" cy="100" r="85" fill="white"/>
+  <circle cx="100" cy="100" r="75" fill="#0b4d94"/>
+  <circle cx="100" cy="100" r="70" fill="white"/>
+  <text x="100" y="70" font-family="Arial" font-size="12" text-anchor="middle" fill="#0b4d94">CENTRAL PHILIPPINES</text>
+  <text x="100" y="90" font-family="Arial" font-size="12" text-anchor="middle" fill="#0b4d94">STATE UNIVERSITY</text>
+  <text x="100" y="110" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b4d94">CPSU</text>
+  <text x="100" y="130" font-family="Arial" font-size="10" text-anchor="middle" fill="#0b4d94">ESTABLISHED 1996</text>
+  <path d="M75,160 Q100,135 125,160" fill="none" stroke="#0b4d94" stroke-width="2"/>
+</svg>

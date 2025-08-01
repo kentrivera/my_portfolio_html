@@ -1,0 +1,12 @@
+<!-- This is a placeholder for project image 2 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#f0f4f8"/>
+  <rect x="100" y="100" width="600" height="400" fill="#4c51bf" rx="10"/>
+  <text x="400" y="250" font-family="Arial" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">OJT Timesheet</text>
+  <text x="400" y="320" font-family="Arial" font-size="28" text-anchor="middle" fill="#ffffff">Time Tracking</text>
+  <rect x="200" y="350" width="400" height="100" fill="#ffffff" rx="5"/>
+  <circle cx="220" cy="380" r="10" fill="#10b981"/>
+  <rect x="240" y="370" width="340" height="20" fill="#e2e8f0" rx="3"/>
+  <circle cx="220" cy="410" r="10" fill="#ef4444"/>
+  <rect x="240" y="400" width="260" height="20" fill="#e2e8f0" rx="3"/>
+</svg>
