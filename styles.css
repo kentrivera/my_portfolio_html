@@ -197,6 +197,10 @@ body.loaded {
     transition: all 0.3s ease;
 }
 
+.nav-close {
+    display: none; /* Hide close button on desktop */
+}
+
 /* Hero Section */
 .hero {
     background: #ffffff;
